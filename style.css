@@ -1,0 +1,9 @@
+.header-section{
+ display: flex;
+ justify-content: space-between;
+}
+
+.header-links{
+ display: flex;
+ justify-content: space-between;
+}
