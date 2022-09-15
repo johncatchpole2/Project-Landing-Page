@@ -14,7 +14,7 @@ body{
 
 .header-section{
     display: flex;
-    padding: 0 19cpx;
+    padding: 0 250px;
     align-items: center;
     justify-content: space-between;
     color: #f9faf8;
