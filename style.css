@@ -42,14 +42,6 @@ a{
     background-color: #1f2937;
 }
 
-.content-section-two{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    flex-direction: column
-}
-
 .information-grid{
     display: flex;
     flex-direction: column;
@@ -67,14 +59,6 @@ a{
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-}
-
-.section2-photo-grid{
-    max-width: 300px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    gap: 70px;
 }
 
 .signUpC1{
@@ -100,4 +84,37 @@ a{
 .info{
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.content-section-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    flex-direction: column;
+    padding: 60px;
+}
+
+.section2-photo-grid{
+    max-width: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70px;
+}
+
+.header-container{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin-bottom: 50px;
+}
+
+.subtext-one,
+.subtext-two,
+.subtext-three,
+.subtext-four{
+    color:#1f2937;
+    font-size: 16px;
+    text-align: center
 }
