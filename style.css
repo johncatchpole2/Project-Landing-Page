@@ -118,3 +118,33 @@ a{
     font-size: 16px;
     text-align: center
 }
+
+.content-section-three{
+    display: flex;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 170px;
+}
+
+.inspirational-quote{
+    display: flex;
+    font-size: 36px;
+    font-weight: lighter;
+    font-style: italic;
+    color: #1f2937;
+    width: 990px;
+    flex: 0 0 auto;
+}
+
+.quote-author{
+    display: flex;
+    align-items: flex-start;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 686px;
+    width: 250px;
+    flex: 0 0 auto;
+}
