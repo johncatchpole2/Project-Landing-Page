@@ -73,6 +73,7 @@ a{
     text-align: center;
     text-anchor: middle;
     color: #f9faf8;
+    border: 2px #3882f6;
 }
 
 .info-header{
