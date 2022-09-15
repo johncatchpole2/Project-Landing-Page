@@ -14,7 +14,7 @@ body{
 
 .header-section{
     display: flex;
-    padding: 0 250px;
+    padding: 0 130px;
     align-items: center;
     justify-content: space-between;
     color: #f9faf8;
@@ -148,3 +148,39 @@ a{
     width: 250px;
     flex: 0 0 auto;
 }
+
+.content-section-four{
+    padding: 150px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.popup-bar{
+    display: flex;
+    border-radius: 12px;
+    padding: 40px;
+    background-color: #3882f6;
+    max-width: 800px;
+    align-items: center;
+}
+
+.popup-info{
+    display: flex;
+    color: white;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.signUpC4{
+    margin-left: auto;
+    text-align: center;
+    width: 100px;
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: 2px solid white;
+    color: white;
+    font-weight: bold;
+}
+
